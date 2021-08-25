@@ -16,4 +16,8 @@ __klib is a Python library for importing, cleaning, analyzing and preprocessing 
 Use the package manager pip to install klib.
 ![Image1](https://warehouse-camo.ingress.cmh1.psfhosted.org/e6b176fa53af05fffc13ec475a858f587e27e028/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f616b616e7a312f6b6c69622f6d61696e2f6578616d706c65732f696d616765732f6578616d706c655f636f72725f706c6f742e706e67)
 
+<img align="top"  width="1100" height="400" src="https://miro.medium.com/max/600/0*oLeswCbrUfNEUwAz.gif">
 
+I've taken car dataset for the  model and fistly analysis the data this including handlaling missing values  and performing model analysis
+
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYlXQmko1j4bnmHt_dyU3EVvnSzvF_0Yl7w&usqp=CAU)
